@@ -11,12 +11,12 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "Nahid😎🇧🇩 Bot",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
+    "100091824823201",
     "100001039692046",
     "100001039692046"
   ],
@@ -38,7 +38,7 @@
     "restartInterval": 86400,
     "errorLog": true,
     "saveCrashLogs": true,
-    "maxMemoryLimit": "1024mb"
+    "maxMemoryLimit": "2048mb"
   },
 
   "Performance": {
